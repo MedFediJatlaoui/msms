@@ -1,0 +1,21 @@
+
+D
+discovery/Dockerfile,4\1\41af0955a191a1deeff37bcc89149f4836a9e4a8
+?
+gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
+A
+school/Dockerfile,9\2\92a98020a65ccfbd5bbd69d2e2f7470a4711ad1b
+H
+config-server/Dockerfile,b\6\b61e3bf1cf202a99b9cf49c6d7e26c98df17134b
+O
+config-server/config-server.iml,6\d\6d342e967e55d130010cac75b12f2334d0bb3d23
+E
+config-server/pom.xml,a\2\a2f9618c8ad821b143a07a29a9805fcb0b2df470
+q
+Aschool/src/main/java/com/example/school/client/StudentClient.java,e\0\e01894192c97414d26a03bfaa3c1c6cd83addc6a
+A
+discovery/pom.xml,a\c\ac3e1555725512e9cd39c39120cd768bda4aa7b4
+B
+gateway/Dockerfile,5\a\5a39717901490093530d8f039ae4bb7d57680f50
+{
+Kgateway/src/main/java/com/example/gateway/config/SecurityConfiguration.java,2\a\2a7c0398a9839de969793e0dd87131e999dcae50
